@@ -13,7 +13,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.example.githubtest.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-
+// commit and push 测试
     private ActivityMainBinding binding;
 
     @Override
